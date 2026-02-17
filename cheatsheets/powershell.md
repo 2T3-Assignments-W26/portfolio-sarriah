@@ -25,33 +25,42 @@ PowerShell is an essential tool for:
 - **Extensibility**: Create custom functions, modules, and scripts.
 - **Cross-Platform**: PowerShell Core runs on Windows, macOS, and Linux.
 
-PowerShell History
+## PowerShell History ## 
 
-PowerShell Version Comparison
-Version:Release Year:Key Features                            
-1.0:2006:Initial release Windows XP SP2 and Windows Server 2003.
-2.0:2009:Introduced remote management and modules.
-5.1:2016:Last Windows-only version               
-6.0:2018:Known as PowerShell Core 6.0. First cross-platform version.
-7.0:2020:Unified Windows PowerShell and PowerShell Core, offering a modern, cross-platform experience.
-
-Version Summary
-Windows PowerShell: Versions 1.0 to 5.1 (Windows-only).
-PowerShell Core: Versions 6.0 and above (cross-platform).
+### PowerShell Version Comparison ###
+| Version: |  Release Year:  |         Key Features                                                         |
+|----------|-----------------|------------------------------------------------------------------------------|                                            
+|   1.0    |     2006        | Windows XP SP2 / Windows Servers                                             |
+|   2.0    |     2016        | Introducted remote management/modules                                        |    
+|   5.1    |     2016        | Last Windows-only version                                                    |
+|   6.0    |     2018        | Known as PowerShell Core 6.0. First cross-platform version.                  |
+|   7.0    |     2020        | Unified Windows PS and PS Core, offering a modern, cross-platform experience.|                 
 
 
-PowerShell for Beginners
 
-Basic Commands to Get Started
+### Version Summary ###
+- **Windows PowerShell**: Versions 1.0 to 5.1 (Windows-only).
+- **PowerShell Core**: Versions 6.0 and above (cross-platform).
+ 
 
-Get-Command: Lists all available commands.
-Get-Help: Provides help information for commands.
-Get-Process: Displays all running processes.
-Stop-Process: Stops a specific process.
-Set-Location: Changes the current directory (like cd in Command Prompt).
-New-Item: Creates a new file or directory.
 
-Example Script
+## PowerShell for Beginners ##
+
+### Basic Commands to Get Started ###
+
+- ``Get-Command``: Lists all available commands.
+
+- ``Get-Help``: Provides help information for commands.
+
+- ``Get-Process``: Displays all running processes.
+
+- ``Stop-Process``: Stops a specific process.
+
+- ``Set-Location``: Changes the current directory (like cd in Command Prompt).
+
+- ``New-Item``: Creates a new file or directory.
+
+### Example Script ### 
 
 Here’s a simple script to list all files in a directory and display their sizes:
 # Get all files in the current directory
