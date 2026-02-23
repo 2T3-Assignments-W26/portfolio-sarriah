@@ -80,6 +80,8 @@ PowerShell is an essential tool for:
 
 - **``New-Item``**: Creates a new file or directory.
 
+- **``Get-Content``**: Gets the content of a file.
+
 ### Example Script ### 
 
 Here’s a simple script to list all files in a directory and display their sizes:
