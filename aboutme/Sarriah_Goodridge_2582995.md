@@ -1,6 +1,6 @@
 
 
-(put the picture here)
+![alt text](image.png)
 
 ## Sarriah Goodridge ##
 Montreal, QC | (514)-952-2532 | 2582995@johnabbottcollege.net

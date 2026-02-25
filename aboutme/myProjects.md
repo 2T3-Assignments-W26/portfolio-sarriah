@@ -1,3 +1,5 @@
+# MY PROJECTS #
+
 # Project One: COFFEE RUN: My First Game #
 -   I created my first game, called ``COFFEE RUN``. It's an arcade style game. The goal is to collect all the coffee ingredients and get them to the machine to brew a coffee before getting killed by enemies! 
 -   This console game was created using ``Visual Studio 2022``, coded in ``C#``.
@@ -31,6 +33,14 @@
                 }
 
 ## Screenshots ##
+**Menu Screen**
+
+![alt text](image-1.png)
+
+**Map**
+
+![alt text](image-2.png)
+
 
 
 
@@ -95,7 +105,13 @@ Int32 choice;
                         // NEW GAME
 
 ## Screenshots ##
+**Area of Rectangle Game in Action**
 
+![alt text](image-3.png)
+
+**Menu System**
+
+![alt text](image-4.png)
 
 
 ## What I learned ##
