@@ -6,5 +6,5 @@
   - [PowerShell](cheatsheets/powershell.md)
 
 - About Me
-  - [Sarriah]()
-  - [Projects]()
+  - [Resume](aboutme/Sarriah_Goodridge_2582995.md)
+  - [Projects](aboutme/myProjects.md)
